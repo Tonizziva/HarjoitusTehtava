@@ -1,0 +1,7 @@
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\bin\Debug\NameDayProgram.exe.config
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\bin\Debug\NameDayProgram.exe
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\bin\Debug\NameDayProgram.pdb
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\obj\Debug\NameDayProgram.csprojResolveAssemblyReference.cache
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\obj\Debug\NameDayProgram.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\obj\Debug\NameDayProgram.exe
+C:\Users\Toni\Documents\TyöTehtävä\NameDayProgram\NameDayProgram\obj\Debug\NameDayProgram.pdb
