@@ -1,0 +1,2 @@
+# HarjoitusTy-
+Pieni c# ohjelma
