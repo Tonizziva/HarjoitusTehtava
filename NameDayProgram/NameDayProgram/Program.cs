@@ -1,4 +1,8 @@
-﻿using System;
+/*
+    Toni Mäkelä
+    07.03.2018
+*/
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
